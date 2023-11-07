@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+ul li{
+    list-style-type: none;
+    padding: 10px;
+    font-weight: 600;
+    border: dashed 1px rgb(251, 255, 0);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
